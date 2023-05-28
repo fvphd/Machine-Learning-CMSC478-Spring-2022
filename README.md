@@ -31,12 +31,14 @@ Unsupervised Learning (Clustering, Anomaly Detection, Projection, and Visualizat
 
 Neural Networks and Introduction to Deep Learning
 
-Deep Learning Frameowkrs (TensorFlow, Keras, PyTorch)
+Deep Learning Frameworks (TensorFlow, Keras, PyTorch)
 
 Deep Neural Networks
 
-Concolutional Neural Networks (CNN)
+Convolutional Neural Networks (CNN)
 
-Recurrent Neural networks (RNN)
+Recurrent Neural Networks (RNN)
+
+Generative Adversarial Networks (GAN)
 
 
